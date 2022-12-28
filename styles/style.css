@@ -102,14 +102,14 @@ section {
 .colors .option.selected::before {
 	position: absolute;
 	content: '';
-	top: 47%;
+	top: 50%;
 	left: 50%;
 	height: 12px;
 	width: 12px;
 	background: inherit;
 	border-radius: inherit;
 	border: 2px solid #fff;
-	transform: translate(-47%, -47%);
+	transform: translate(-48%, -48%);
 }
 .colors .option:first-child.selected::before {
 	border-color: #ccc;
